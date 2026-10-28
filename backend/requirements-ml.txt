@@ -1,0 +1,5 @@
+-r requirements.txt
+torch>=2.4
+torchvision>=0.19
+pandas>=2.2
+scikit-learn>=1.5
